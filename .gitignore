@@ -1,0 +1,15 @@
+# Python & Jupyter araçları
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Büyük veri setleri ve ağırlıklar (GitHub'ı şişirmemek için)
+data/
+dataset/
+*.h5
+*.pt
+*.pth
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
