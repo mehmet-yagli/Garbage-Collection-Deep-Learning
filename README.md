@@ -8,7 +8,7 @@ Gelişen dünyada evsel ve endüstriyel atıkların doğru ayrıştırılması, 
 ## 👥 Ekip (Contributors)
 Bu proje bir takım çalışması olarak başarıyla geliştirilmiştir:
 * [Mehmet Yağlı](https://github.com/mehmet-yagli)
-* [Furkan](https://github.com/darakcilar)
+* [Furkan Darakçılar](https://github.com/darakcilar)
 
 ## 📂 Proje Yapısı
 * 📁 **assets/** - Eğitim grafikleri ve karmaşıklık matrisleri
