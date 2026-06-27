@@ -41,6 +41,7 @@ Projede iki farklı derin öğrenme mimarisi aynı veri seti üzerinde eğitilmi
 
 ![EfficientNet Karmaşıklık Matrisi](assets/efficientnet_karmasiklik_matrisi.png)
 
+
 ## 🛠️ Kullanılan Teknolojiler
 * Python 3.x
 * Google Colab (GPU Hızlandırıcı)
