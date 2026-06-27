@@ -30,6 +30,7 @@ Projede iki farklı derin öğrenme mimarisi aynı veri seti üzerinde eğitilmi
 ![MobileNetV2 Eğitim Grafigi](assets/mobilenet_egitim_grafigi.png)
 
 **Karmaşıklık Matrisi (Confusion Matrix):**
+
 ![MobileNetV2 Karmaşıklık Matrisi](assets/mobilenet_karmasiklik_matrisi.png)
 
 ### 📈 EfficientNet Eğitim Performansı
@@ -37,6 +38,7 @@ Projede iki farklı derin öğrenme mimarisi aynı veri seti üzerinde eğitilmi
 ![EfficientNet Eğitim Grafigi](assets/efficientnet_egitim_grafigi.png)
 
 **Karmaşıklık Matrisi (Confusion Matrix):**
+
 ![EfficientNet Karmaşıklık Matrisi](assets/efficientnet_karmasiklik_matrisi.png)
 
 ## 🛠️ Kullanılan Teknolojiler
